@@ -1,0 +1,21 @@
+Team 1 
+-- Please update this file with :
+ - intro
+ - section-1
+ - section-2
+ - footer
+
+<-------- Intro goes here ---------------->
+
+
+
+<-------- Section-1 goes here ---------------->
+
+
+<-------- Section-2 goes here ---------------->
+
+
+
+<-------- Footer goes here ---------------->
+
+
