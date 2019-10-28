@@ -1,4 +1,4 @@
-Team 1
+Team 2
 -- Please update this file with :
  - intro
  - section-1
