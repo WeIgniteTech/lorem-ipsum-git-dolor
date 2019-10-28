@@ -1,4 +1,4 @@
-Team 1 
+Team 2
 -- Please update this file with :
  - intro
  - section-1
@@ -6,6 +6,7 @@ Team 1
  - footer
 
 <-------- Intro goes here ---------------->
+This is my introduction  by CP. Welcome to the first day of the rest of your days.2
 
 
 
@@ -28,7 +29,4 @@ Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil 
 <-------- Footer goes here ---------------->
 
 Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
-
-
-
 
