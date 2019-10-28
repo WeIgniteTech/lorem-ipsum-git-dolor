@@ -1,4 +1,4 @@
-Team 1 
+Team 1
 -- Please update this file with :
  - intro
  - section-1
@@ -6,7 +6,7 @@ Team 1
  - footer
 
 <-------- Intro goes here ---------------->
-
+This is my interoductions by CP
 
 
 <-------- Section-1 goes here ---------------->
@@ -17,5 +17,3 @@ Team 1
 
 
 <-------- Footer goes here ---------------->
-
-
