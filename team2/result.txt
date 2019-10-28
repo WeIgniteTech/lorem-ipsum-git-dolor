@@ -6,7 +6,8 @@ Team 1
  - footer
 
 <-------- Intro goes here ---------------->
-This is my interoductions by CP
+This is my introduction  by CP. Welcome to the first day of the rest of your days.
+
 
 
 <-------- Section-1 goes here ---------------->
