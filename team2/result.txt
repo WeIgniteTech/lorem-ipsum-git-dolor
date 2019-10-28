@@ -27,4 +27,8 @@ Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil 
 
 <-------- Footer goes here ---------------->
 
+Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+
+
+
 
